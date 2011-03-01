@@ -2,7 +2,7 @@ package h2m.halloweld.application;
 
 /**
  * Created by IntelliJ IDEA.
- * User: mhaebich
+ * User: h2m
  * Date: 01.03.11
  * Time: 00:23
  * To change this template use File | Settings | File Templates.

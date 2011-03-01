@@ -8,7 +8,7 @@ import javax.inject.Singleton;
 
 /**
  * Created by IntelliJ IDEA.
- * User: mhaebich
+ * User: h2m
  * Date: 28.02.11
  * Time: 23:04
  * To change this template use File | Settings | File Templates.
