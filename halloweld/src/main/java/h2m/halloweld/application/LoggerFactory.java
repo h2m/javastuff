@@ -12,7 +12,6 @@ import java.util.logging.Logger;
  * Time: 23:20
  * To change this template use File | Settings | File Templates.
  */
-@Singleton
 public class LoggerFactory {
 
     @Produces

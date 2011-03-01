@@ -11,10 +11,7 @@ import java.util.logging.Logger;
  * Time: 22:25
  * To change this template use File | Settings | File Templates.
  */
-@Singleton
 public class NameServiceImpl implements NameService {
-
-
     @Inject
     Logger logger;
 

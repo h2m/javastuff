@@ -17,7 +17,7 @@ import javax.inject.Singleton;
 public class ServiceConsumer {
 
     @Inject
-    NameServiceImpl nameService;
+    NameService nameService;
 
     public void consume(String name) {
         nameService.sayMyName(name);

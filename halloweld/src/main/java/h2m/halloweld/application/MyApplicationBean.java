@@ -15,7 +15,6 @@ import javax.inject.Singleton;
  * Time: 22:43
  * To change this template use File | Settings | File Templates.
  */
-@ApplicationScoped
 public class MyApplicationBean {
     @Inject
     ServiceConsumer serviceConsumer;
